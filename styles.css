@@ -1,6 +1,7 @@
-body{
+html,
+.body{
     background-color: bisque;
 }
-h1{ 
+.h1{ 
     color:brown
 }
