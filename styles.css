@@ -1,6 +1,6 @@
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
+body{
+    background-color: bisque;
+}
+h1{ 
+    color:brown
+}
